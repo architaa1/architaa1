@@ -49,14 +49,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=architaa1&show_icons=true&theme=radical" alt="Archita's GitHub stats" />
-</p>
-
----
-
 ## 📫 How to Reach Me
 
 - 📧 Email: [architasinha8434@gmail.com](mailto:architasinha8434@gmail.com)
